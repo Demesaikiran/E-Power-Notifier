@@ -9,7 +9,7 @@ Electricity being a dominant source of energy, its wastage occurring every day i
 
 ### About Project & Model:
 
-This is an application which is used for reducing electricity bill. This is a python pro- gram. It grabs few images from electricity meter which is working and depending on images and the units shown on meter it sends notification in the form of email to user, when consumed electricity crosses the limit of usage.It uses OCR to recognize the seven segment display which is shown on the meter.
+This is an application that is used for reducing electricity bills. This is a python pro-gram. It grabs few images from the electricity meter which is working and depending on the images and the units shown on the meter it sends a notification in the form of an email to the user when consumed electricity crosses the limit of usage. It uses OCR to recognize the seven-segment display which is shown on the meter.
 
 ### Objective:
 
